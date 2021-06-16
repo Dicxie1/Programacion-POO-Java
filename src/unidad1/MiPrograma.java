@@ -1,3 +1,4 @@
+package unidad1;
 /*
  * Programa de ejemplo que describe las estructura básicas de 
  * Java

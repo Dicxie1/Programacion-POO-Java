@@ -1,3 +1,4 @@
+package unidad1;
 /**
  * Programa que explica los distintos tipo de datos básicos en Java.
  * @author dicxie

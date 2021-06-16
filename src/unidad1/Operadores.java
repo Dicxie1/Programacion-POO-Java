@@ -1,3 +1,4 @@
+package unidad1;
 /*
  * el siguiente programa  describe los operadores del lenguaje de 
  * programación en Java
