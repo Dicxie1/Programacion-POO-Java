@@ -5,6 +5,7 @@ package unidad2;
  *
  */
 import java.util.Scanner;
+
 public class SentenciasSwitch {
 	public static void main(String[] args) {
 		//delcaracion de variable
